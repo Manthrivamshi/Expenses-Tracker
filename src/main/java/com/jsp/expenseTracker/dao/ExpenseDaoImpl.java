@@ -64,6 +64,7 @@ public class ExpenseDaoImpl implements ExpensesDao{
 				
 			}
 
+			// Returing the expensesList
 			return expensesList;
 			
 			
